@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Plasery.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Plasery.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-10.png",
+      "PackagePath": "staticwebassets\\img\\icon-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-4.png",
+      "PackagePath": "staticwebassets\\img\\icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-5.png",
+      "PackagePath": "staticwebassets\\img\\icon-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-6.png",
+      "PackagePath": "staticwebassets\\img\\icon-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-7.png",
+      "PackagePath": "staticwebassets\\img\\icon-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-8.png",
+      "PackagePath": "staticwebassets\\img\\icon-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\icon-9.png",
+      "PackagePath": "staticwebassets\\img\\icon-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-5.jpg",
+      "PackagePath": "staticwebassets\\img\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\service-6.jpg",
+      "PackagePath": "staticwebassets\\img\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Classtime.PC_6_213_7\\Desktop\\Ye-Yat-MVC\\Plasery\\Plasery\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Plasery.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Plasery.props",
+      "PackagePath": "build\\Plasery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Plasery.props",
+      "PackagePath": "buildMultiTargeting\\Plasery.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Plasery.props",
+      "PackagePath": "buildTransitive\\Plasery.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
